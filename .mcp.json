@@ -6,7 +6,7 @@
     },
     "handbook":{
       "type": "http",
-      "url":"http://localhost:8080/mcp"
+      "url":"https://my-knowledge-ksor-helloworld.vercel.app/mcp"
     }
   }
 }
